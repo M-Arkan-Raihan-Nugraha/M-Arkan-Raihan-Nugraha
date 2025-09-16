@@ -1,11 +1,5 @@
 ## Hi there 👋
-My name is Arkan from SMK Negeri 1 Cianjur
-
-## ✨About Me
-- 🔭 I’m currently working on Dart & PHP
-- 🌱 I’m currently learning Dart & PHP
-- 😄 Hobby: Futsal
-- ⚡ Fun fact: I am a student at SMK Negeri 1 Cianjur
+My name is M Arkan Raihan Nugraha from Cianjur
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -43,7 +37,7 @@ My name is Arkan from SMK Negeri 1 Cianjur
 
 ###
 
-<div align="left">
+<div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
