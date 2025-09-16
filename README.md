@@ -1,6 +1,3 @@
-## Hi there 👋
-My name is M Arkan Raihan Nugraha from Cianjur
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -29,7 +26,7 @@ My name is M Arkan Raihan Nugraha from Cianjur
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning Dart & PHP<br>- 😄 Hobby: Futsal<br>- ⚡ Fun fact: I am a student at SMK Negeri 1 Cianjur</p>
+<p align="left">My name is M Arkan Raihan Nugraha, born in West Java<br><br>- 📚 I'm currently learning Dart & PHP<br>- 😄 Hobby: Futsal<br>- ⚡ Fun fact: I am a student at SMK Negeri 1 Cianjur</p>
 
 ###
 
