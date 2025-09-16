@@ -6,9 +6,8 @@
 
 <div align="center">
   
-  <a href "https://www.youtube.com/@arkanngrh435 https://t.me/ArknNgrh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/></a>
+  <a href="https://www.youtube.com/@arkanngrh435 https://t.me/ArknNgrh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/></a>
   <a href="https://www.youtube.com/@arkanngrh435"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"/></a>
-        <a href="https://www.youtube.com/@arkanngrh435">GitHub</a>
   <a href="https://www.instagram.com/arknngrh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
         
 </div>
