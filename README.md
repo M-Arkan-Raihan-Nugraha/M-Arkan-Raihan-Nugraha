@@ -14,13 +14,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-arkan-raihan-nugraha.m-arkan-raihan-nugraha&"  />
-</div>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-arkan-raihan-nugraha.m-arkan-raihan-nugraha&"  />
+</div>
 
 ###
 
