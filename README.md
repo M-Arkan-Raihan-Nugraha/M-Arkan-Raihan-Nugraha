@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">My name is M Arkan Raihan Nugraha, born in West Java<br><br>- 📚 I'm currently learning Dart & PHP<br>- 😄 Hobby: Futsal<br>- ⚡ Fun fact: I am a student at SMK Negeri 1 Cianjur</p>
+<p align="left">My name is M Arkan Raihan Nugraha, born in West Java.<br><br>- 📚 I'm currently learning Dart & PHP<br>- 😄 Hobby: Futsal<br>- ⚡ Fun fact: I am a student at SMK Negeri 1 Cianjur</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-arkan-raihan-nugraha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=M-Arkan-Raihan-Nugraha&theme=hacker"/>
 </div>
 
 ###
