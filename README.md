@@ -13,12 +13,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-arkan-raihan-nugraha.m-arkan-raihan-nugraha&"  />
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=m-arkan-raihan-nugraha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
