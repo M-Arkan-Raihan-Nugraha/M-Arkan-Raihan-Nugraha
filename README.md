@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Arkan-Raihan-Nugraha&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=M-Arkan-Raihan-Nugraha&theme=iceberg"/>
 </div>
 
 ###
