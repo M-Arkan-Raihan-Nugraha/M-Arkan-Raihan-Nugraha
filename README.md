@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">My name is M Arkan Raihan Nugraha, and I am a student at SMK Negeri 1 Cianjur.<br><br>- 👶 Born in West Java<br>- 📚 Currently learning: Flutter & PHP<br>- 😄 Hobby: Futsal<br>- ⚡ Fun fact: Used to love wires and circuits, now I love code and scripts.<br>- 📧 Email: arkankopem28@gmail.com</p>
+<p align="left">My name is M Arkan Raihan Nugraha, and I am a student at SMK Negeri 1 Cianjur.<br><br>- 👶 Born in West Java<br>- 📚 Currently learning: Flutter & PHP<br>- ⚽ Hobby: Futsal<br>- ⚡ Fun fact: Used to love wires and circuits, now I love code and scripts.<br>- 📧 Email: arkankopem28@gmail.com</p>
 
 ###
 
