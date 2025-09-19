@@ -56,8 +56,8 @@
 
 ###
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=M-Arkan-Raihan-Nugraha&theme=iceberg" alt="GitHub Streak"/>
-</div>
+</p>
 
 ###
