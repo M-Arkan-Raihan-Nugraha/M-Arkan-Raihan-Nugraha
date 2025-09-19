@@ -69,6 +69,8 @@
 
 ###
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=M-Arkan-Raihan-Nugraha&theme=iceberg)](https://git.io/streak-stats)
+ <div align="center">
+   <img src="https://streak-stats.demolab.com/?user=M-Arkan-Raihan-Nugraha&theme=iceberg" />
+ </div>
 
 ###
