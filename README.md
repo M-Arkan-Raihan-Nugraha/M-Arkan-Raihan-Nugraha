@@ -70,7 +70,7 @@
 ###
 
  <div align="center">
-   <img src="https://streak-stats.demolab.com/?user=M-Arkan-Raihan-Nugraha&theme=iceberg" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=iceberg" alt="GitHub Activity Graph"/>
  </div>
 
 ###
