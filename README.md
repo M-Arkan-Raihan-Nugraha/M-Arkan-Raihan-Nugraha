@@ -70,7 +70,9 @@
 ###
 
  <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=ice-berg" alt="GitHub Activity Graph"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=dark" alt="GitHub Activity Graph"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=M-Arkan-Raihan-Nugraha&show_icons=true&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Arkan-Raihan-Nugraha&layout=compact&theme=radical" />
  </div>
 
 ###
