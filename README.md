@@ -70,7 +70,7 @@
 ###
 
  <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=react" alt="GitHub Activity Graph" width="500" height="250"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=react" alt="GitHub Activity Graph" width="800" height="400"/> <br>
    <img src="https://github-readme-stats.vercel.app/api?username=M-Arkan-Raihan-Nugraha&show_icons=true&theme=react" /> <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Arkan-Raihan-Nugraha&layout=compact&theme=react" />
  </div>
