@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">My name is M Arkan Raihan Nugraha, and I am a student at SMK Negeri 1 Cianjur.<br><br>- 👶 Born in West Java<br>- 📚 Currently learning: Flutter & PHP<br>- ⚽ Hobby: Futsal<br>- ⚡ Fun fact: Used to play with wires and circuits, now I write code and scripts.<br>- 📧 Email: arkankopem28@gmail.com</p>
+<p align="left">My name is M Arkan Raihan Nugraha, and I am a student at SMK Negeri 1 Cianjur.<br><br>- 👶 Born in West Java<br>- 📚 Currently learning: Flutter & Laravel<br>- ⚽ Sports: Futsal & Arm Wrestling<br>- ⚡ Fun fact: Used to play with wires and circuits — now I write code and scripts.<br>- 📧 Email: arkankopem28@gmail.com</p>
 
 ###
 
@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
