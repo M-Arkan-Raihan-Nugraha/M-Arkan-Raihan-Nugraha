@@ -83,7 +83,7 @@ My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Neg
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=react" alt="GitHub Activity Graph" width="800" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Arkan-Raihan-Nugraha&show_icons=true&theme=react" /> <br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=M-Arkan-Raihan-Nugraha&theme=whatsapp-dark)](https://git.io/streak-stats) <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Arkan-Raihan-Nugraha&layout=compact&theme=react" />
 </div>
 
