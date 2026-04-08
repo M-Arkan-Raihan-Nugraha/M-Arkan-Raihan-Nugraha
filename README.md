@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBlOTB3MTQwOWdpOWl1ZzgwNndiMHFtdXQ2YzFrMXZpejN5ZXpwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6PX8kR2z20Mpvln7YG/giphy.gif" />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEwNWNlc2ZzZHNlNWNnNmZzMmQ4eHR2YjBtMTQzYTh0bGwyaHV2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6oMlRpdMq5jGnkAlrO/giphy.gif" />
 </div>
 
 ###
@@ -22,10 +22,9 @@
 My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Negeri 1 Cianjur</strong> passionate about building web and mobile applications.
 
 - 👶 Born in West Java, Indonesia
-- 🚀 **Current Project:** Patient Management System (Laravel & React)
+- 🚀 **Current Project:** Muslim App (Flutter)
 - 📚 **Currently Learning:** Flutter & Laravel
-- 💾 **Interests:** Legacy Hardware Preservation, FFmpeg Workflows, and Game Modding
-- ⚽ **Sports:** Futsal & Arm Wrestling
+- ⚡ **Fun Fact:** I enjoy Futsal and Arm Wrestling.
 - 📧 **Email:** arkankopem28@gmail.com
 </p>
 
@@ -36,10 +35,6 @@ My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Neg
   <a href="https://www.youtube.com/@arknngrh28"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo"/></a>
   <a href="https://www.instagram.com/arknngrh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"/></a>
 </div>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -85,7 +80,7 @@ My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Neg
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=react&hide_border=true" alt="GitHub Activity Graph" width="850" /> <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Arkan-Raihan-Nugraha&theme=vue&hide_border=true" alt="GitHub Activity Graph" width="850" /> <br><br>
   <img src="https://streak-stats.demolab.com?user=M-Arkan-Raihan-Nugraha&theme=whatsapp-dark" alt="GitHub Streak" /></a>
 </div>
 
