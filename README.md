@@ -22,8 +22,8 @@
 My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Negeri 1 Cianjur</strong> passionate about building web and mobile applications.
 
 - 👶 Born in West Java, Indonesia
-- 🚀 **Current Project:** Muslim App (Flutter)
-- 📚 **Currently Learning:** Flutter & Laravel
+- 🚀 **Current Project:** MuslimApp (Flutter)
+- 📚 **Currently Learning:** Flutter & React
 - ⚡ **Fun Fact:** I enjoy Futsal and Arm Wrestling.
 - 📧 **Email:** arkankopem28@gmail.com
 </p>
@@ -60,6 +60,10 @@ My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Neg
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/mysql-original.svg" height="45" alt="firebase logo" />
 
   <br><br>
 
