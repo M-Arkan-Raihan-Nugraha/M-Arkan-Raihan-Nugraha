@@ -31,7 +31,7 @@ My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Neg
 ###
 
 <div align="center">
-  <a href="https://t.me/ArknNgrh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="telegram logo"/></a>
+  <a href="https://t.me/ArknNgrh"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" title="My Telegram"/></a>
   <a href="https://www.youtube.com/@arknngrh28"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" title="My YouTube"/></a>
   <a href="https://www.instagram.com/arknngrh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" title="My Instagram"/></a>
 </div>
