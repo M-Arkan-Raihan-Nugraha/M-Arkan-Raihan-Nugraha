@@ -63,7 +63,7 @@ My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Neg
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/mysql-original.svg" height="45" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="45" alt="firebase logo" />
 
   <br><br>
 
