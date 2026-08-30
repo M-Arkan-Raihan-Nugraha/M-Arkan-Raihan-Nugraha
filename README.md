@@ -19,10 +19,10 @@
 ###
 
 <p align="left">
-My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Negeri 1 Cianjur</strong> passionate about building web and mobile applications.
+My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Negeri 1 Cianjur</strong> with an interest in software development.
 
 - 👶 Born in West Java, Indonesia
-- 🚀 **Current Project:** MuslimApp (Flutter)
+- 🚀 **Current Project:** WorksPass (SaaS)
 - 📚 **Currently Learning:** Flutter & React
 - ⚡ **Fun Fact:** I enjoy Futsal and Arm Wrestling.
 - 📧 **Email:** arkankopem28@gmail.com
@@ -58,6 +58,8 @@ My name is <strong>M Arkan Raihan Nugraha</strong>, a student at <strong>SMK Neg
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo" title="Laravel"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo" title="Flutter"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="next.js logo" title="Next.js"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" title="MySQL"/>
   <img width="15" />
